@@ -4,9 +4,12 @@ permalink: /
 layout: default
 ---
 
+## Contact Me
+* [hello@casorama.xyz](mailto:hello@casorama.xyz)
+* [Discord: casorama](https://discord.gg/27bVvzE9)
 
 ## Introduction
-Hey, I'm [Caso](https://rec.net/user/Caso)! I've been creating in Rec Room for the better part of 2 years and I have used that time to refine my knowledge enough to begin accepting commissions. My scope of knowledge is pretty broad, but I really enjoy making circuits with a lot of user interaction (like an arcade machine, or custom user interface). You can contact me via Discord: casorama
+Hey, I'm [Caso](https://rec.net/user/Caso)! I've been creating in Rec Room for the better part of 2 years and I have used that time to refine my knowledge enough to begin accepting commissions. My scope of knowledge is pretty broad, but I really enjoy making circuits with a lot of user interaction (like an arcade machine, or custom user interface).
 
 I've worked on a few different [rooms](https://rec.net/user/Caso/rooms):
 * [GoldenHour.GoldenHourOG by jollybeannn](https://rec.net/room/GoldenHour)
