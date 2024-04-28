@@ -6,7 +6,7 @@ layout: default
 
 
 ## Introduction
-Hey, I'm [Caso](https://rec.net/user/Caso)! I've been creating in Rec Room for the better part of 2 years and I have used that time to refine my knowledge enough to begin accepting commissions. My scope of knowledge is pretty broad, but I really enjoy making circuits with a lot of user interaction (like an arcade machine, or custom user interface)  
+Hey, I'm [Caso](https://rec.net/user/Caso)! I've been creating in Rec Room for the better part of 2 years and I have used that time to refine my knowledge enough to begin accepting commissions. My scope of knowledge is pretty broad, but I really enjoy making circuits with a lot of user interaction (like an arcade machine, or custom user interface). You can contact me via Discord: casorama
 
 I've worked on a few different [rooms](https://rec.net/user/Caso/rooms):
 * [GoldenHour.GoldenHourOG by jollybeannn](https://rec.net/room/GoldenHour)
@@ -29,7 +29,11 @@ I mainly accept payment via CashApp or PayPal.
 * Pricing: *Variable.* Minimum is $25--after your proposal you will be given an accurate quote. Half of the provided quote is expected to begin work, the rest is expected after the commissioner gets a chance to test and is satisfied with the work.
 * Previous works:
   * [DreamDen by Caso](https://rec.net/room/DreamDen/)
+      
+    ![DreamDen Music Player](ddui.png)
   * [CampCozy2.0 by SodaSpill](https://rec.net/room/CampCozy2.0/)
+
+    ![CampCozy Custom Storefront](image.png)
 
 #### Small Inventions 
 * Pricing: *Fixed rate.* $0.10 / chip, >120 chips
