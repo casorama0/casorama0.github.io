@@ -40,13 +40,13 @@ I mainly accept payment via CashApp or PayPal.
     ![CampCozy Custom Storefront](image.png)
 
 #### ✅ Small Inventions 
-* Pricing: *Fixed rate.* $0.10 / chip, >120 chips
+* Pricing: *Fixed rate.* $0.10 / chip, maximum of 120 chips
 * Previous works:
   * [Western Target Practice by Caso](https://rec.net/invention/11029918)
 
 #### ✅ Medium Inventions
-* Pricing: *Fixed rate.* $0.08 / chip, <120 chips, >500 chips
+* Pricing: *Fixed rate.* $0.08 / chip, minimum of 120 chips, maximum of 500 chips
 
 #### ✅ Large Inventions
-* Pricing: *Variable.* Minimum is $40--requires proposal to be given an accurate quote, <500 chips
+* Pricing: *Variable.* Minimum is $40--requires proposal to be given an accurate quote, minimum of 500 chips
  
