@@ -1,6 +1,6 @@
 ---
-title: "Caso's Commissions"
-permalink: /
+title: "Commissions"
+permalink: /commissions
 layout: default
 ---
 
