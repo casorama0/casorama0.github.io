@@ -22,14 +22,14 @@ I've worked on a few different [rooms](https://rec.net/user/Caso/rooms):
 I mainly accept payment via CashApp or PayPal.
 
 ## Services Offered
-#### ✅ Whole Room Circuits
+#### ❌ Whole Room Circuits - Not Accepting
 * Pricing: *Variable.* Minimum is $100--after your project proposal you will be given an accurate quote. Half of the provided quote is expected to begin work.
 * Previous works:  
   * [FactoryTycoon.Arena by DORM](https://rec.net/room/FactoryTycoon) - Commissioned 
   * [FindTheButton by DORM](https://rec.net/room/FindTheButton) - Commissioned
  
 
-#### ❌ Custom Studio Worldspace UI - Not Accepting
+#### ✅ Custom Studio Worldspace UI
 * Pricing: *Variable.* Minimum is $25--after your proposal you will be given an accurate quote. Half of the provided quote is expected to begin work, the rest is expected after the commissioner gets a chance to test and is satisfied with the work.
 * Previous works:
   * [DreamDen by Caso](https://rec.net/room/DreamDen/) - Not Commissioned 
