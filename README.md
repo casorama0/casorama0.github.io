@@ -22,14 +22,14 @@ I've worked on a few different [rooms](https://rec.net/user/Caso/rooms):
 I mainly accept payment via CashApp or PayPal.
 
 ## Services Offered
-#### ❌ Whole Room Circuits - Not Accepting
+### ❌ Whole Room Circuits - Not Accepting
 * Pricing: *Variable.* Minimum is $100--after your project proposal you will be given an accurate quote. Half of the provided quote is expected to begin work.
 * Previous works:  
   * [FactoryTycoon.Arena by DORM](https://rec.net/room/FactoryTycoon) - Commissioned 
   * [FindTheButton by DORM](https://rec.net/room/FindTheButton) - Commissioned
  
 
-#### ✅ Custom Studio Worldspace UI
+### ✅ Custom Studio Worldspace UI
 * Pricing: *Variable.* Minimum is $25--after your proposal you will be given an accurate quote. Half of the provided quote is expected to begin work, the rest is expected after the commissioner gets a chance to test and is satisfied with the work.
 * Previous works:
   * [DreamDen by Caso](https://rec.net/room/DreamDen/) - Not Commissioned 
@@ -39,8 +39,8 @@ I mainly accept payment via CashApp or PayPal.
 
     ![CampCozy Custom Storefront](image.png)
 
-#### ✅ Inventions
-* The first 120 chips of the invention will retain the $0.10 pricing, but additional chips past that will be at $0.08.  
+### ✅ Inventions
+* The first 120 chips of the invention will retain a pricing of $0.10, but additional chips past that will be at a rate of $0.08.  
 
 | Chips | Pricing |
 |:-------------|---------:|
@@ -50,7 +50,7 @@ I mainly accept payment via CashApp or PayPal.
   
 Example of a 130 chip invention:  
 | Chips | Pricing |
-|---------|---------|
+|:--------------------|---------:|
 | 120 @ $0.10 / chip | $12 |
 | 10 @ $0.08 / chip | $0.80 |
 | $12 + $0.80 | $12.80 |
