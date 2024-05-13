@@ -50,7 +50,7 @@ I mainly accept payment via CashApp or PayPal.
   
 Example of a 130 chip invention:  
 | Chips | Pricing |
-|---|---|
+|---------|---------|
 | 120 @ $0.10 / chip | $12 |
 | 10 @ $0.08 / chip | $0.80 |
 | $12 + $0.80 | $12.80 |
